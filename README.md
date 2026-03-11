@@ -67,25 +67,25 @@ Build a machine learning forecasting model that predicts the future number of el
 
 ## 📦 Required Dependencies
 
-numpy==1.26.4
-pandas==1.5.3
-scikit-learn==1.6.1
-scipy==1.15.2
-statsmodels==0.14.4
-streamlit==1.44.1
-tensorflow==2.19.0
+- numpy==1.26.4
+- pandas==1.5.3
+- scikit-learn==1.6.1
+- scipy==1.15.2
+- statsmodels==0.14.4
+- streamlit==1.44.1
+- tensorflow==2.19.0
 
 ---
 
 ## ⚙ Model Training Workflow
 
-Step 1 — Load dataset
-Step 2 — Preprocess and clean data
-Step 3 — Encode categorical features
-Step 4 — Create lag and trend features
-Step 5 — Train Random Forest model
-Step 6 — Evaluate model performance
-Step 7 — Save trained model using joblib
+- Step 1 — Load dataset
+- Step 2 — Preprocess and clean data
+- Step 3 — Encode categorical features
+- Step 4 — Create lag and trend features
+- Step 5 — Train Random Forest model
+- Step 6 — Evaluate model performance
+- Step 7 — Save trained model using joblib
 
 ---
 
@@ -131,5 +131,5 @@ Predictions are generated iteratively by using previous predictions as lag input
 ![image alt](https://github.com/ChDeekshith14/Skills4future-AICTE/blob/891ed8470ff60c592b32251c292887f757b4c4bd/Screenshot%202026-03-11%20210126.png)
 ![image alt](https://github.com/ChDeekshith14/Skills4future-AICTE/blob/891ed8470ff60c592b32251c292887f757b4c4bd/Screenshot%202026-03-11%20210200.png)
 ![image alt](https://github.com/ChDeekshith14/Skills4future-AICTE/blob/891ed8470ff60c592b32251c292887f757b4c4bd/Screenshot%202026-03-11%20210216.png)
-![image alt](https://github.com/ChDeekshith14/Skills4future-AICTE/blob/891ed8470ff60c592b32251c292887f757b4c4bd/Screenshot%202026-03-11%20210216.png)
+![image alt](https://github.com/ChDeekshith14/Skills4future-AICTE/blob/fd90e7a8803b7597fff4c2c8f8f5f7e743be323d/Screenshot%202026-03-11%20210234.png)
 
