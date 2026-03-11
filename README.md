@@ -126,4 +126,10 @@ Predictions are generated iteratively by using previous predictions as lag input
 ---
 
 ## 📸 Screenshots
-![image alt]()
+![image alt](https://github.com/ChDeekshith14/Skills4future-AICTE/blob/891ed8470ff60c592b32251c292887f757b4c4bd/Screenshot%202026-03-11%20210037.png)
+![image alt](https://github.com/ChDeekshith14/Skills4future-AICTE/blob/891ed8470ff60c592b32251c292887f757b4c4bd/Screenshot%202026-03-11%20210057.png)
+![image alt](https://github.com/ChDeekshith14/Skills4future-AICTE/blob/891ed8470ff60c592b32251c292887f757b4c4bd/Screenshot%202026-03-11%20210126.png)
+![image alt](https://github.com/ChDeekshith14/Skills4future-AICTE/blob/891ed8470ff60c592b32251c292887f757b4c4bd/Screenshot%202026-03-11%20210200.png)
+![image alt](https://github.com/ChDeekshith14/Skills4future-AICTE/blob/891ed8470ff60c592b32251c292887f757b4c4bd/Screenshot%202026-03-11%20210216.png)
+![image alt](https://github.com/ChDeekshith14/Skills4future-AICTE/blob/891ed8470ff60c592b32251c292887f757b4c4bd/Screenshot%202026-03-11%20210216.png)
+
