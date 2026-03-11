@@ -5,6 +5,8 @@ The system uses machine learning regression models to forecast EV growth and pro
 
 The goal is to help urban planners, policymakers, and infrastructure developers anticipate EV growth and plan charging infrastructure accordingly.
 
+![image alt](https://github.com/ChDeekshith14/Skills4future-AICTE/blob/eac01179b35a8addcca069daa48d6ba310a05134/ev-car-factory.jpg)
+
 ---
 
 ## 📌 Problem Statement
