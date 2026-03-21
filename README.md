@@ -12,15 +12,10 @@ The goal is to help urban planners, policymakers, and infrastructure developers 
 ## 📌 Problem Statement
 
 - As electric vehicle adoption increases rapidly, cities must prepare the required infrastructure such as EV charging stations.
-
 - Poor forecasting can cause:
-
 - Charging infrastructure shortages
-
 - Increased waiting times for EV users
-
 - Slower EV adoption due to poor accessibility
-
 - The challenge is to predict future EV adoption trends based on historical data.
 
 ---
@@ -32,11 +27,8 @@ Build a machine learning forecasting model that predicts the future number of el
 **The system should:**
 
 - Analyze historical EV trends
-
 - Forecast EV growth for future months
-
 - Allow county-level comparison of EV adoption
-
 - Provide interactive visualization through a web application
 
 ---
@@ -94,11 +86,8 @@ Build a machine learning forecasting model that predicts the future number of el
 **The application generates:**
 
 - Cumulative EV growth charts
-
 - Historical vs forecasted trends
-
 - Multi-county comparison graphs
-
 - Charts are generated using Matplotlib and displayed inside Streamlit.
 
 ---
@@ -116,11 +105,8 @@ Predictions are generated iteratively by using previous predictions as lag input
 **The application displays:**
 
 - Historical EV adoption
-
 - Forecasted EV growth
-
 - County comparison trends
-
 - Percentage EV growth prediction
 
 ---
